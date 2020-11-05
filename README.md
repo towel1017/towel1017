@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### STACK
+### 💻STACK
 ---
  - HTML 
  - CSS
@@ -11,7 +11,7 @@
  - NodeJS
  - Jest
  
- ### TOOL
+ ### 🖥TOOL
  ---
   - AWS
   - VSC(Visual Studio Code)
