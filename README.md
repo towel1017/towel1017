@@ -7,7 +7,7 @@
  - CSS
  - Javascript(ES6)
  - React + React Hook (Functional Component)
- - PHP
+ - Typescript
  - NodeJS
  - Jest
  
